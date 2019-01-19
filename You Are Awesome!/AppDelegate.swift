@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  You Are Awesome!
 //
-//  Created by Kim, Young-Tae on 2019. 1. 18..
-//  Copyright © 2019년 David Kim. All rights reserved.
+//  Created by Kim, David on 2019. 1. 18..
+//  Copyright © 2019 David Kim. All rights reserved.
 //
 
 import UIKit
